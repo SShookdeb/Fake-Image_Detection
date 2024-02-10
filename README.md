@@ -32,3 +32,5 @@ After That click the kernal option and restart and run all the cell
 copy some original and duplicate image on your cloned current directory
 At last predict your original and duplicate or image by entering the image file name inside the "prepare" function as an argument 
 
+For any issue follow the code "Fake_Image_Detection.ipynb"
+
